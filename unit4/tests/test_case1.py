@@ -1,4 +1,4 @@
-file_name='word_count.txt'
+file_name='wordcount.txt'
 line_count=0
 word_count=0
 character_count=0
